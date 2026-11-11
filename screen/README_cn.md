@@ -1,3 +1,5 @@
+[![X](https://img.shields.io/badge/X-%40suzukaze__haduki-000000?logo=x&logoColor=white)](https://x.com/suzukaze_haduki) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/houko)
+
 # 使用步骤1
 在 [application manager](https://apps.twitter.com/app/new) 上创建一个app, 你将会得到我们所需要的相关信息
 ![](screen/key.png)
