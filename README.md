@@ -1,4 +1,7 @@
 # [中文说明](screen/README_cn.md)
+
+[![X](https://img.shields.io/badge/X-%40suzukaze__haduki-000000?logo=x&logoColor=white)](https://x.com/suzukaze_haduki) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/houko)
+
 # Usage step 1
 create an application at [application manager](https://apps.twitter.com/app/new), you will get the information that we need
 
